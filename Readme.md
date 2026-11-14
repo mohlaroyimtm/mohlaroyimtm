@@ -1,9 +1,7 @@
-#asslomu alaykum
-##o'zim haqimda
+#assalomu alaykum
 
-- <<Toshkentboyeva>>
-- <<mohlaroy>>
-- <<14 yosh>>
-- <<manzil fergana>>
+##mohlaroyim
 
->>
+-<<mohlaroy>>
+<<Toshkentboyeva>>
+<<14 yosh>>
