@@ -1,7 +1,5 @@
-#assalomu alaykum
+#asslomu alykum
 
-##mohlaroyim
-
--<<mohlaroy>>
-<<Toshkentboyeva>>
-<<14 yosh>>
+##mohlaroy
+- <<Toshkentboyeva>>
+-<<14 yosh>>
